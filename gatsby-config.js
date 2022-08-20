@@ -1,5 +1,6 @@
 module.exports = {
   siteMetadata: {
+    title: "My First Gatsby Site",
     siteUrl: `https://gatsbystarterblogsource.gatsbyjs.io/`,
   },
   plugins: [
